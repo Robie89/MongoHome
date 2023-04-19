@@ -1,0 +1,8 @@
+composer.lock
+vendor/*
+system/.DS_Store
+__MACOSX/system/._.DS_Store
+__MACOSX/src/._theme_1679596144487.css
+
+
+src/theme_1679596144487.css
